@@ -44,3 +44,11 @@ body {
   text-align: center;
   background-image: url('../images/the-flatiron-building.png');
 }
+
+.broad {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
