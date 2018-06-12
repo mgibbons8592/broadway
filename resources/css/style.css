@@ -21,7 +21,7 @@
 }
 
 .strategy {
-  font-family: helvetica;
+  font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   text-align: center;
@@ -34,4 +34,13 @@ p {
 
 body {
   text-align: center;
+}
+
+#newyork {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url('../images/the-flatiron-building.png');
 }
