@@ -12,3 +12,26 @@
   text-align: center;
   background-image: url('../images/the-flatiron-building.png');
 }
+
+#process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.strategy {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+body {
+  text-align: center;
+}
